@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Apploxa\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-20 03:51+0000\n"
+"PO-Revision-Date: 2024-08-26 20:36+0000\n"
+"Last-Translator: \n"
+"Language-Team: العربية\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.1\n"
+"X-Domain: apploxa"
+
+msgid "Access Token"
+msgstr "رمز الوصول"
+
+msgid "Access Token and WhatsApp number"
+msgstr "رمز الوصول ورقم الواتس اب"
+
+msgid "Admin notifications"
+msgstr "إشعارات الإدارة"
+
+msgid "Admin WhatsApp number"
+msgstr "رقم واتساب المشرف"
+
+#. Name of the plugin
+msgid "Apploxa"
+msgstr "ابلوكسا"
+
+#. Description of the head1
+msgid "Apploxa Connection"
+msgstr "الربط مع ابلوكسا"
+
+msgid "Apploxa Settings"
+msgstr "إعدادات Apploxa"
+
+msgid "Click Save then perform a connection test."
+msgstr "انقر فوق حفظ ثم قم بإجراء اختبار الاتصال."
+
+#, fuzzy
+#| msgid "Confirm\""
+msgid "Confirm"
+msgstr "تاكيد"
+
+msgid ""
+"Connect your WhatsApp number to send a One-Time Password (OTP) for login, "
+"register and checkout verification."
+msgstr ""
+"قم بتوصيل رقم WhatsApp الخاص بك لإرسال كلمة مرور لمرة واحدة (OTP) لتسجيل "
+"الدخول والتسجيل والتحقق من الدفع."
+
+msgid "Copy and paste access token."
+msgstr "انسخ ولصق رمز الوصول."
+
+msgid ""
+"Create a free account at <a href=\"https://wa.apploxa.com/auth/login\" "
+"target=\"_blank\">apploxa.com</a>."
+msgstr ""
+"قم بإنشاء حساب مجاني على <a href=\"https://wa.apploxa.com/auth/login\" "
+"target=\"_blank\">apploxa.com</a>."
+
+msgid "Create free account"
+msgstr "انشاء حساب جديد"
+
+msgid "Customer notifications"
+msgstr "إشعارات العملاء"
+
+msgid "Enter verification code"
+msgstr "أدخل رمز التحقق"
+
+msgid "Full Name"
+msgstr "الاسم بالكامل"
+
+msgid "How to connect your WhatsApp:"
+msgstr "كيفية ربط الواتساب الخاص بك:"
+
+#. Author URI of the plugin
+msgid "https://www.linkedin.com/in/ibrahim-mohamed-b805b5151/"
+msgstr ""
+
+#. Author of the plugin
+msgid "ibrahim mohamed"
+msgstr ""
+
+msgid "Link your WhatsApp using a QR code."
+msgstr "قم بربط تطبيق WhatsApp الخاص بك باستخدام رمز الاستجابة السريعة QR."
+
+msgid "Log in"
+msgstr "دخول"
+
+msgid "Login & Signup OTP"
+msgstr "تسجيل الدخول OTP"
+
+msgid "Made with ♥ by the Apploxa Team"
+msgstr "تم صنعه بكل حب بواسطة فريق Apploxa"
+
+msgid "Note: You can link the same number for notifications and OTP."
+msgstr "ملاحظة: يمكنك ربط نفس الرقم للإشعارات وOTP."
+
+msgid "Notification Logs"
+msgstr "سجلات الإشعارات"
+
+msgid "OTP has been sent"
+msgstr "تم إرسال OTP"
+
+msgid "Phone Number"
+msgstr "رقم الجوال"
+
+msgid ""
+"Please rate <a href=\"https://WordPress.org\" target=\"_blank\">Apploxa</a> "
+"on WordPress.org to help us spread the word."
+msgstr ""
+"يرجى تقييم <a href=\"https://WordPress.org\" target=\"_blank\">Apploxa</a> "
+"على WordPress.org لمساعدتنا في نشر البلاجن."
+
+msgid "Quick Message"
+msgstr "رسالة سريعة"
+
+msgid "Save"
+msgstr "حفظ"
+
+msgid "Save Changes"
+msgstr "حفظ التغيرات"
+
+msgid "Save, then perform a connection test"
+msgstr "احفظ ثم قم بإجراء اختبار الاتصال"
+
+msgid "Sign up"
+msgstr "إنشاء حساب"
+
+msgid "Templates"
+msgstr "القوالب"
+
+msgid "Verify OTP"
+msgstr "تاكيد OTP"
+
+#. Description of the plugin
+msgid "Whatsapploxa - whatsapp notification to your customers"
+msgstr "واتسابلوكسا - إشعارات واتساب لعملائك"

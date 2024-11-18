@@ -1,0 +1,117 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Apploxa\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-20 03:51+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.1\n"
+"X-Domain: apploxa"
+
+#. Name of the plugin
+msgid "Apploxa"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.linkedin.com/in/ibrahim-mohamed-b805b5151/"
+msgstr ""
+
+#. Author of the plugin
+msgid "ibrahim mohamed"
+msgstr ""
+
+#. Description of the plugin
+msgid "Whatsapploxa - whatsapp notification to your customers"
+msgstr ""
+
+#. Description of the head1
+msgid "Apploxa Connection"
+msgstr ""
+
+msgid "How to connect your WhatsApp:"
+msgstr ""
+
+msgid "Access Token and WhatsApp number"
+msgstr ""
+
+msgid "Apploxa Settings"
+msgstr ""
+
+msgid "Note: You can link the same number for notifications and OTP."
+msgstr ""
+
+msgid "Create a free account at <a href="https://wa.apploxa.com/auth/login" target="_blank">apploxa.com</a>."
+msgstr ""
+
+msgid "Link your WhatsApp using a QR code."
+msgstr ""
+
+msgid "Copy and paste access token."
+msgstr ""
+
+msgid "Click Save then perform a connection test."
+
+msgid "Create free account"
+
+msgid "Connect your WhatsApp number to send a One-Time Password (OTP) for login, register and checkout verification."
+
+msgid "Admin WhatsApp number"
+
+msgid "Made with ♥ by the Apploxa Team"
+
+msgid "Please rate <a href="https://WordPress.org" target="_blank">Apploxa</a> on WordPress.org to help us spread the word."
+
+msgid "Save"
+
+msgid "Apploxa Settings"
+msgstr ""
+
+msgid "Customer notifications"
+msgstr ""
+
+msgid "Admin notifications"
+msgstr ""
+
+msgid "Login & Signup OTP"
+msgstr ""
+
+msgid "Quick Message"
+msgstr ""
+
+msgid "Templates"
+msgstr ""
+
+msgid "Notification Logs"
+msgstr ""
+
+msgid "Save Changes"
+
+msgid "Log in"
+
+msgid "Sign up"
+
+msgid "Phone Number"
+
+msgid "Full Name"
+
+msgid "Sign up"
+
+msgid "Confirm"
+
+msgid "Verify OTP"
+
+msgid "OTP has been sent"
+
+msgid "Enter verification code"
+
+msgid "Save, then perform a connection test"
+
+msgid "Access Token"
